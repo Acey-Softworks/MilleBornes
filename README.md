@@ -21,6 +21,6 @@ V5:
 - added gameplay loop
 - started validatePlay function to validate the play of a card
 
-V6: 
+V6 (FINAL): 
 - fixed gameplay loop problems form previous versions
 - finished validatePlay function to validate the play of a card
